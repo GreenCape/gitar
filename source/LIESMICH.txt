@@ -1,0 +1,16 @@
+Dieses Verzeichnis ist nicht leer!
+
+Es wurde mittels 'gitar' komprimiert.
+Geben Sie in der Konsole (Terminal) Folgendes ein:
+
+    $ cd <dieses Verzeichnis>
+    $ gitar restore
+
+Sie können nun mit den Dateien arbeiten.
+
+Wenn Sie mit der Bearbeitung fertig sind, geben Sie
+
+    $ gitar update
+
+ein. Ihre Änderungen werden der Sicherung hinzugefügt,
+das Verzeichnis erscheint wieder leer.
